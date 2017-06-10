@@ -1,0 +1,14 @@
+{
+    "name": "hou/test",
+    "description": "hou description",
+    "type": "php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "haley",
+            "email": "john@example.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
